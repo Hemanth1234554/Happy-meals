@@ -1,0 +1,27 @@
+body{
+    background-image: url("meals.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Divtag{
+    margin-top: 350px;
+    background-color: #f1c27d;
+    padding-bottom: 90px;
+    padding-left: 20px;
+    border: solid 5px #f1c27d;
+    border-radius: 2pc 2pc 0pc 0pc;
+}
+#headingone{
+    font-style: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 1px;
+}
+#Button{
+    padding: 10px 20px 10px 20px;
+    border:solid white 1px;
+    background-color: white;
+    border-radius: 7px;
+    color: black;
+    font-style: bold;
+    font-size: 18px;
+}
